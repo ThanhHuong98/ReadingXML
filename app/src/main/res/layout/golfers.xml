@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Player xmlns="http://Players"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+    <Player>
+        <Name> Arnie</Name>
+        <Phone> 000</Phone>
+    </Player>
+
+
+
+
+</Player>
